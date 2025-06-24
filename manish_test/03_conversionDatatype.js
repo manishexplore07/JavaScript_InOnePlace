@@ -20,3 +20,9 @@ let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+// Primitive
+// 7 types: String, Number, Boolearn, null, undefined, Symbol,
+
+// Reference (Non primitive)
+// Array, Objects, Functions
