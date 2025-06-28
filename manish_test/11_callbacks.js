@@ -1,4 +1,4 @@
-function greeting(name){
+/*function greeting(name){
         console.log(`hello ${name}`)
         }
 
@@ -8,4 +8,4 @@ function greeting(name){
         }
         getUserInput(greeting);
 
-        
+        */
